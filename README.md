@@ -1,20 +1,23 @@
 # Assignment 2: Capturing data exercises
 
 ## Objectives
-
+In this assignment we will develop an application that captures data
+for use in a Pyhton program.
 ## Instructions
+1. Start by reviewing the problem described below.
+1. When you are familiar with the requirements, start to plan how you
+will write the Python code.
+1. As you write the code be sure to test it frequently.
+1. Submit your complete assignment when you are sure you have implemented
+all of the requirements.
 
 ### Basics
-
-Capturing data
-
 Let’s build an automated interviewer! The purpose of this Python program is 
 to operate in a welcome booth at the Seattle Python Users conference. All 
 delegates will be expected to line up at one of the many terminals and enter 
 their details into the program you are going to write.
 
 The program will ask each of the following questions and turn, and will 
-
 display the answer. For example, it asks “what is your name” and it displays 
 “your name is Fred”. But be creative if you wish!
 
@@ -41,8 +44,8 @@ Automated interviewer – improvements.
 The automated interviewer serves its purpose from the perspective of the 
 user of the program. But the mingling of questions and answers makes it a 
 little messy to maintain.
-Redesign the program so that the list of questions is stored in a tuple. 
 
+Redesign the program so that the list of questions is stored in a tuple. 
 Then, all the questions are in one place and it becomes really easy to add 
 one.
 
