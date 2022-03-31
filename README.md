@@ -28,6 +28,6 @@ their details into the program you are going to write.
     1. Database development with Python
     1. Python for data science
     1. Advanced Python for application developers
-1. The automated interviewer now serves its purpose from the perspective of the user of the program. But the number of questions and answers makes it a little messy to maintain. Look at the notes about tuples and lists and see if you can rewrite the program so that a simple change to the question tuple is all that is needed to record all the relevant answers.
+1. The automated interviewer now serves its purpose from the perspective of the user of the program. But the number of questions and answers makes it a little messy to maintain. Copy your code into a new python file, consult the documentation on tuples and lists, and rewrite the program so that a simple change to the question tuple is all that is needed to record all the relevant answers.
   1. Redesign the program so that the list of questions is stored in a tuple so that all the questions are in one place and it becomes really easy to add one.
   1. But what about the answers? How can we record the answer to every question without making any changes to the program other than adding a new question (or removing an existing question) from the tuple?
